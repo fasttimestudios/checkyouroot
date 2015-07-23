@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Check Dein Root</string>
+    <string name="not_root_permission">Keine Root Installiert!</string>
+    <string name="you_have_root_permission">Du hast Root Berechtigung!</string>
+    <string name="you_have_root_but_not_permission">Du hast Root aber keine Berechtigung!</string>
+	<string name="check_again">Check Nochmal</string>
+	<string name="click_for_check_root">Für Check Root klicken</string>
+	<string name="please_wait">Bitte Warten...</string>
+    
+    <string name="rta_dialog_title">Bewerte diese App</string>
+    <string name="rta_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
+    <string name="rta_dialog_ok">Jetzt bewerten</string>
+    <string name="rta_dialog_cancel">Später</string>
+    <string name="rta_dialog_no">Nein, Danke</string>
+
+
+</resources>
+
